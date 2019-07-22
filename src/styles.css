@@ -1,2 +1,22 @@
 /* You can add global styles to this file, and also import other style files */
 @import "~@angular/material/prebuilt-themes/indigo-pink.css";
+html {
+  height:100vh;
+}
+
+.home{
+  background: url("/assets/images/bg.png");
+  display: block;
+  height: 100vh;
+}
+.about {
+  display: block;
+  height: 100vh;
+  background: white;
+}
+
+.contact{
+  background: url("/assets/images/bg.png");
+  display: block;
+  height: 100vh;
+}

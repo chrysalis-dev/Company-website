@@ -44,12 +44,3 @@
 .icon {
   font-size: 15em;
 }
-
-
-.image{
-  height:40em;
-  background-size:cover;
-  width:auto;
-  background-image: url('../../assets/images/btfly2 (1).png');
-  background-position:50% 50%;
-}

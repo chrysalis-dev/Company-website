@@ -11,14 +11,6 @@
   color: white;
 }
 
-.containerTab {
-  padding: 20px;
-  color: white;
-  margin-top: 40px;
-  background-image: url('../../assets/images/btfly2 (1).png');
-  background-position:50% 50%;
-}
-
 /* Clear floats after the columns */
 .row:after {
   content: "";
